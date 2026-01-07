@@ -1,0 +1,2 @@
+﻿mp.microsoft.com: TCP/443
+msftconnecttest.com: TCP/443

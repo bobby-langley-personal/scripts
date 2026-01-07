@@ -1,0 +1,36 @@
+﻿console.grubbrr.com: TCP/443
+prod-grubbrr-identity.us.auth0.com: TCP/443
+builds.grubbrr.net: TCP/443
+api.nge.grubbrr.com: TCP/443
+stgngeprodeastus.blob.core.windows.net: TCP/443
+api.vfipayna.com: TCP/443
+api.vfipayna2.com: TCP/443
+vhq.connect.verifone.com: TCP/443
+ik.imagekit.io: TCP/443
+fonts.gstatic.com: TCP/443
+eastus-8.in.applicationinsights.azure.com: TCP/443
+EnterpriseEnrollment.manage.microsoft.com: TCP/443
+login.microsoftonline.com: TCP/443
+graph.windows.net: TCP/443
+edge.microsoft.com: TCP/443
+sentry.io: TCP/443
+ws-us2.pusher.com: TCP/443
+manage.microsoft.com: TCP/443
+update.microsoft.com: TCP/443
+remoteassistance.support.services.microsoft.com: TCP/443
+azuredge.net: TCP/443
+dl.delivery.mp.microsoft.com: TCP/443
+www.microsoft.com: TCP/443
+wns.windows.com: TCP/443
+azure.com: TCP/443
+login.live.com: TCP/443
+dl.delivery.mp.microsoft.com: TCP/443
+tlu.dl.delivery.mp.microsoft.com: TCP/443
+api.teamviewer.com: TCP/443
+api.teamviewer.com: TCP/80
+update.microsoft.com: TCP/443
+update.microsoft.com: TCP/80
+NTP: time.windows.com => ✅ 05/09/2025 18:18:34 (UTC)
+NTP: time.google.com => ✅ 05/09/2025 18:18:34 (UTC)
+NTP: time.nist.gov => ✅ 05/09/2025 18:18:34 (UTC)
+NTP: pool.ntp.org => ✅ 05/09/2025 18:18:34 (UTC)

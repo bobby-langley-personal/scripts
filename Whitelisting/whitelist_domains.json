@@ -1,0 +1,54 @@
+{
+    "Domains": [
+        {
+            "Domains": [
+                "console.grubbrr.com",
+                "prod-grubbrr-identity.us.auth0.com",
+                "builds.grubbrr.net",
+                "api.nge.grubbrr.com",
+                "stgngeprodeastus.blob.core.windows.net",
+                "api.vfipayna.com",
+                "api.vfipayna2.com",
+                "vhq.connect.verifone.com",
+                "ik.imagekit.io",
+                "fonts.gstatic.com",
+                "eastus-8.in.applicationinsights.azure.com",
+                "EnterpriseEnrollment.manage.microsoft.com",
+                "login.microsoftonline.com",
+                "graph.windows.net",
+                "edge.microsoft.com",
+                "sentry.io",
+                "ws-us2.pusher.com",
+                "manage.microsoft.com",
+                "update.microsoft.com",
+                "remoteassistance.support.services.microsoft.com",
+                "azuredge.net",
+                "dl.delivery.mp.microsoft.com",
+                "www.microsoft.com",
+                "wns.windows.com",
+                "azure.com",
+                "login.live.com"
+
+            ],
+            "Ports": [
+                443
+            ]
+        },
+        {
+            "Domains": [
+                "api.teamviewer.com",
+                "update.microsoft.com"
+            ],
+            "Ports": [
+                443,
+                80
+            ]
+        }
+    ],
+    "NTPServers": [
+        "time.windows.com",
+        "time.google.com",
+        "time.nist.gov",
+        "pool.ntp.org"
+    ]
+}

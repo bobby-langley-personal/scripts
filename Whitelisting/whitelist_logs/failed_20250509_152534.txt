@@ -1,0 +1,5 @@
+﻿deploy.autodeploy.mp.microsoft.com: TCP/443
+mp.microsoft.com: TCP/443
+delivery.mp.microsoft.com: TCP/443
+msftconnecttest.com: TCP/443
+www.msftconnecttest.com/connecttest.txt: TCP/443

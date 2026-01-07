@@ -1,0 +1,16 @@
+﻿api.pusher.com: TCP/443
+socket.pusherapp.com: TCP/443
+mp.microsoft.com: TCP/443
+mp.microsoft.com: TCP/80
+support.services.microsoft.com: TCP/443
+support.services.microsoft.com: TCP/80
+attest.azure.net: TCP/443
+attest.azure.net: TCP/80
+do.dsp.mp.microsoft.com: TCP/443
+do.dsp.mp.microsoft.com: TCP/80
+msftconnecttest.com: TCP/443
+msftconnecttest.com: TCP/80
+msedge.net: TCP/443
+msedge.net: TCP/80
+wns.windows.com: TCP/80
+time.windows.com: UDP/123

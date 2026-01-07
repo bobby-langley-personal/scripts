@@ -1,0 +1,6 @@
+﻿console.grubbrr.com: TCP/443
+prod-grubbrr-identity.us.auth0.com: TCP/443
+builds.grubbrr.net: TCP/443
+api.nge.grubbrr.com: TCP/443
+ik.imagekit.io: TCP/443
+NTP: time.nist.gov => ❌ No response

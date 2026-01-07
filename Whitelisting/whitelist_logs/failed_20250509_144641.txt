@@ -1,0 +1,7 @@
+﻿deploy.autodeploy.mp.microsoft.com: TCP/443
+mp.microsoft.com: TCP/443
+attest.azure.net: TCP/443
+do.dsp.mp.microsoft.com: TCP/443
+msftconnecttest.com: TCP/443
+msedge.net: TCP/443
+time.windows.com: UDP/123

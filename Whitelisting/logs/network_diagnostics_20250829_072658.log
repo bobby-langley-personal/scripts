@@ -1,0 +1,59 @@
+
+=== Site Readiness Checks ===
+console.grubbrr.com: TCP/443 => [PASS]
+prod-grubbrr-identity.us.auth0.com: TCP/443 => [PASS]
+builds.grubbrr.net: TCP/443 => [PASS]
+api.nge.grubbrr.com: TCP/443 => [PASS]
+stgngeprodeastus.blob.core.windows.net: TCP/443 => [PASS]
+api.vfipayna.com: TCP/443 => [PASS]
+api.vfipayna2.com: TCP/443 => [PASS]
+vhq.connect.verifone.com: TCP/443 => [PASS]
+ik.imagekit.io: TCP/443 => [PASS]
+fonts.gstatic.com: TCP/443 => [PASS]
+eastus-8.in.applicationinsights.azure.com: TCP/443 => [PASS]
+EnterpriseEnrollment.manage.microsoft.com: TCP/443 => [PASS]
+login.microsoftonline.com: TCP/443 => [PASS]
+graph.windows.net: TCP/443 => [PASS]
+edge.microsoft.com: TCP/443 => [PASS]
+sentry.io: TCP/443 => [PASS]
+ws-us2.pusher.com: TCP/443 => [PASS]
+manage.microsoft.com: TCP/443 => [PASS]
+update.microsoft.com: TCP/443 => [PASS]
+remoteassistance.support.services.microsoft.com: TCP/443 => [PASS]
+azuredge.net: TCP/443 => [PASS]
+dl.delivery.mp.microsoft.com: TCP/443 => [PASS]
+www.microsoft.com: TCP/443 => [PASS]
+wns.windows.com: TCP/443 => [PASS]
+azure.com: TCP/443 => [PASS]
+login.live.com: TCP/443 => [PASS]
+api.teamviewer.com: TCP/443 => [PASS]
+api.teamviewer.com: TCP/80 => [PASS]
+update.microsoft.com: TCP/443 => [PASS]
+update.microsoft.com: TCP/80 => [PASS]
+
+=== NTP Server Checks ===
+NTP: time.windows.com => [PASS] 08/29/2025 10:27:01 (UTC)
+NTP: time.google.com => [PASS] 08/29/2025 10:27:01 (UTC)
+NTP: time.nist.gov => [PASS] 08/29/2025 10:27:01 (UTC)
+NTP: pool.ntp.org => [PASS] 08/29/2025 10:27:01 (UTC)
+
+=== Network Information ===
+Hostname : DESKTOP-GDQTTQS
+Local IP : 10.0.0.144
+Public IP: 76.128.91.188
+
+=== DNS Resolution Test ===
+Resolved google.com to: 142.250.217.174
+
+=== Ping Test ===
+Ping to 8.8.8.8 => [PASS] Avg response: 16.75 ms
+
+=== Download Speed Test ===
+Download => [PASS]
+Size     : 41.61 MB
+Duration : 5.3137987 sec
+Speed    : 62.64 Mbps
+
+--- Summary Logs Saved ---
+[PASS] Log: C:\Users\Bobby\Documents\Automation\Whitelisting\logs\passed_20250829_072658.txt
+[FAIL] Log: C:\Users\Bobby\Documents\Automation\Whitelisting\logs\failed_20250829_072658.txt
